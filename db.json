@@ -1,0 +1,11 @@
+{
+  "sensors": [
+    {
+      "temperature": 25.5,
+      "pressure": 1020,
+      "moisture": 30,
+      "vibration": 0.5,
+      "timestamp": "2025-11-21T19:30:00Z"
+    }
+  ]
+}
